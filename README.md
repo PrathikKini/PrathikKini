@@ -12,7 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=PrathikKini&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PrathikKini&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathikKini&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 # 📊 Leetcode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kini_m?theme=dark&font=Lily%20Script%20One&ext=heatmap)
