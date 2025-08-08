@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I am currently working as Data Engineer with A.P Moller Maersk<br>🌱 I am looking to collaborate on python coding and Big data technologies.<br>💬 I have Expertise in End to End data pipeline developments <br> 👯 Experience working in Supply chain and Logistics, Manufacturing, Insurance, Healtcare, Hospitality domain. <br> ⚡ Previously worked with Volvo Group, NTT DATA, IBM, TietoEvry.
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathikm/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11190218/prathik-kini) 
@@ -15,6 +14,8 @@
 
 # 📊 Leetcode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kini_m?theme=dark&font=Lily%20Script%20One&ext=heatmap)
+
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PrathikKini&theme=radical&no-frame=false&no-bg=false&margin-w=4)
