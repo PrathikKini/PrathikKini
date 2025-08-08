@@ -12,6 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PrathikKini&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathikKini&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+![LeetCode Stats](https://leetcode.com/u/kini_m/?theme=dark&font=Noto%20Sans%20Bhaiksuki)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PrathikKini&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
