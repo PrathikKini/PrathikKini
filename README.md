@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working as Data Engineer with A.P Moller Maersk<br>🌱 I am looking to collaborate on python coding and Big data technologies.<br>💬 I have Expertise in End to End data pipeline developments <br> 👯 Experience working in Supply chain and Logistics, Manufacturing, Insurance, Healtcare, Hospitality domain. <br> ⚡ Previously worked with Volvo Group, NTT DATA, IBM, TietoEvry.
+🔭 I am currently working as Senior Data Engineer with Frisco Analytics<br>🌱 I am looking to collaborate on python coding and Big data technologies.<br>💬 I have Expertise in End to End data pipeline developments <br> 👯 Experience working in Supply chain and Logistics, Manufacturing, Insurance, Healtcare, Hospitality domain. <br> ⚡ Previously worked with A.P Moller Maersk, Volvo Group, NTT DATA, IBM, TietoEvry.
 
 
 ## 🌐 Socials:
